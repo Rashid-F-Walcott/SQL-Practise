@@ -133,6 +133,7 @@ PART 2) SELECT name FROM divisions WHERE code='EC';
 
 gives the answer ----> National League
 
+----------------------------------------------------------------------
 ### Useful Resources
 
 - [Filtering results](https://www.w3schools.com/sql/sql_where.asp)
